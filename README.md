@@ -22,7 +22,7 @@ Initialize the library by creating a new PublicKey object.
 
 ####Arguments
 
-* `keyservers` - Array of keyserver domains (default is `["https://keys.fedoraproject.org/", "https://keybase.io/"]`).
+* `keyservers` - Array of keyserver domains (default is `["https://keys.openpgp.org/", "https://keybase.io/"]`).
 
 ####Examples
 

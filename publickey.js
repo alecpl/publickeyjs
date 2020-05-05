@@ -5,7 +5,7 @@
         Default keyservers (HTTPS and CORS enabled)
     */
     var DEFAULT_KEYSERVERS = [
-        "https://keys.fedoraproject.org/",
+        "https://keys.openpgp.org/",
         "https://keybase.io/",
     ];
 
