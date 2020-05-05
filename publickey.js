@@ -15,7 +15,7 @@
         Arguments:
 
         * keyservers - Array of keyserver domains, default is:
-            ["https://keys.fedoraproject.org/", "https://keybase.io/"]
+            ["https://keys.openpgp.org/", "https://keybase.io/"]
 
         Examples:
 
